@@ -28,17 +28,30 @@ Kayael: Firstborn of the Flesh Tearers successor Chapter.
 
 Vorxec Arrun: Prognosticator of the Silver Skulls successor Chapter.
 
-Paullian Xeriis: Venerable Dreadnought of the Cobra Warriors successor Chapter.
+Paullian Xeriis: Venerable Dreadnought of the Cobra Warriors successor Chapter. Paullian fell during the Destruction of Naja, the Cobra Warriors fortress homeworld, by the hands of the Ork Waaagh! Blood Tide. He was barely clinging to life as he was entombed in a walking sarcophagus, known as a Dreadnought, and received his second chance at life. He dedicated his new life toward the complete and utter destruction of any and all Ork he encountered.
 
 Larathiel Seraphus: Dreadwing Terminator of the Angels of Vengeance successor chapter.
 
-# Enemies
+Ophia Cortez: Inquisitor Lord of the Ordo Hereticus. Ophia is a distinguished member of the Ordo Hereticus, known colloquially as the Witch Hunters, whom has proven herself as a ruthless and calculating tactician. Ophia and her retinue have continually stamped out heresy across the Segmentum Obscurus. 
 
-# Main Quest
+# Enemies: TODO
 
-# Side Quests
+Orks:
 
-# Legendary Items
+Chaos:
+
+    Cultists:
+    Chaos Space Marines:
+    Daemons:
+
+Tyranids:
+
+
+# Main Quest: TODO -> 
+
+# Side Quests: TODO -> 
+
+# Legendary Items: TODO -> These will be discoverable throughout the map by your selected Hero. Each Hero will be able to discover one weapon and one piece of armor either through a side quest or as loot.
 
 
 
