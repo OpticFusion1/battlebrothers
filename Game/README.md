@@ -21,7 +21,7 @@ Graevehan Ashfist: Primaris Sternguard Veteran of the  of the Crimson Fists succ
 
 His Wargear Includes:   Armor -> Mark X Tacticus Power Armor: +40hp, Purity Seal: +2hp
                         Ranged Weapons -> Hellstorm Bolt Rifle: 4-9 dmg/attack. (Only usable in ranged combat).
-                        Melee Weapons -> Flame Gauntlet Power Fist: 5 dmg/attack, causes 2 fire damage over time, for next 2 turns. (Must be                                          in melee range to attack)
+                        Melee Weapons -> Flame Gauntlet Power Fist: 5 dmg/attack, causes 2 fire damage over time, for next 2 turns. (Must be in melee range to attack)
                         Skills -> Boltstorm -> unleash consecutive ranged attacks. (Only usable in ranged combat).
 
 Kayael: Firstborn of the Flesh Tearers successor Chapter. While all successor chapters of the Blood Angels are affected by the Black Rage and try to suppress it, the Flesh Tearers embrace the Black Rage, letting it fuel them in battle. The Black Rage is the result of the unfortunate death of their primogenitor, Sanguinius, by the hand of his traitor brother, Horus. His death sent a psychic shockwave through his sons, causing them to enter a frenzy, slaying anyone in their path, friend or foe. Kayael uses the Black Rage to recklessly charge into battle with abandon, ripping and tearing his way through anything that happens to be in his path.
@@ -39,7 +39,7 @@ His Wargear Includes:   Armor -> Mark VIII "Errant" Power Armor: +38hp
                                                  max. 2 turn cooldown.               
                                                  Void Hammer: Blasts opponent with psychic energy, knocking them down.
                                                  Causes 8 damage and stuns enemy for 1 turn. 3 turn cooldown.
-                                                 Vortex of Doom: Tears a rift between real and warp space, damaging all nearby. Deals                                                        3-40 damage to enemy, but causes 10hp of damage to yourself. 4 turn cooldown.
+                                                 Vortex of Doom: Tears a rift between real and warp space, damaging all      nearby. Deals 3-40 damage to enemy, but causes 10hp of damage to yourself. 4 turn cooldown.
 
 Paullian Xeriis: Hellfire Dreadnought of the Cobra Warriors successor Chapter. Paullian fell during the Destruction of Naja, the Cobra Warriors fortress homeworld, by the hands of the Ork Waaagh! Blood Tide. He was barely clinging to life as he was entombed in a walking sarcophagus, known as a Dreadnought, and received his second chance at life. He dedicated his new life toward the complete and utter destruction of any and all Ork he encountered. (Being a Hellfire Dreadnought, Paullian only uses ranged weapons. Use Stomp to move enemies back into ranged combat).
 
@@ -51,7 +51,7 @@ His Wargear Includes:   Armor -> Castraferrum Pattern Hellfire Dreadnought body:
 Larathiel Seraphus: Dreadwing Terminator of the Angels of Vengeance successor chapter. The Angels of Vengeance took inspiration and reverence from their father chapter's, the Dark Angels, revered 1st Assault Terminator Company known as the Deathwing Company, and created the Dreadwing Company. While the Deathwings don a bone-white color scheme, the Dreadwings have retained the original founding colors of their father Chapter, and are painted jet black. The Dreadwings are usually the first and last thing a foul xenos sees in the pallid crypts where they hide. Larathiel is the night; he brings the swift justice of the Emperor to all who deserve to receive it, by way of his mighty Thunder Hammer and brutal Chainfist. (As Larathiel only uses melee weapons, he attacks with BOTH weapons per turn, but does not have access to any legendary wargear).
 
 His Wargear Includes:   Armor -> Indomitus Pattern Terminator Armor: +50hp.
-                        Melee Weapons -> Thunder Hammer: 3-7 dmg/attack. Chainfist: 3-5 dmg/attack, causes 2 bleeding damage over time, for                                          next 2 turns. (Must be in melee range to attack)
+                        Melee Weapons -> Thunder Hammer: 3-7 dmg/attack. Chainfist: 3-5 dmg/attack, causes 2 bleeding damage over time, for next 2 turns. (Must be in melee range to attack)
 
 
 Ophia Cortez: Inquisitor Lord of the Ordo Hereticus. Ophia is a distinguished member of the Ordo Hereticus, known colloquially as the Witch Hunters, whom has proven herself as a ruthless and calculating tactician. Ophia and her retinue have continually stamped out heresy across the Segmentum Obscurus. Because of this, she is outfitted in some of the most technologically advanced and illustrious equipment the Imperium has to offer...to the point that she draws the ire of her own peers.
@@ -93,9 +93,9 @@ Orks: Listen ere you gits an grots. We 'ave krumpin ta do an dats wot we gunna d
         Bad Moons Weirdboy: These gits iz weird! Pure psyker. When they take a certain amount of damage...look out!
             Stats:  Armor -> Brightly colored cloak: 12hp. Pointy hat made from a Banshee's helmet: 3hp.
                     Psyker Abilities -> Psychic Vomit: 'Nuff said.  2-8 dmg/attack. Deals 2 dmg to weirdboy.
-                                        Gork'll get em!: Gork's Fist or Foot manifests above the unlucky enemy. 3-6 dmg/attack. Deals 3                                             damage to weirdboy.
+                                        Gork'll get em!: Gork's Fist or Foot manifests above the unlucky enemy. 3-6 dmg/attack. Deals 3 damage to weirdboy.
                                         Zzap!: Beam of pure pyschic energy. 3-5 dmg/attack. Deals 4 damage to weirdboy.
-                                        'Eadbang: The weirdboyz 'ead explodes from taking too much damage. Deals a massive 10 damage in                                             melee range, so steer clear! Deals...well, death to the weirdboy.
+                                        'Eadbang: The weirdboyz 'ead explodes from taking too much damage. Deals a massive 10 damage in melee range, so steer clear! Deals...well, death to the weirdboy.
 
 Chaos: BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE! WE WILL STAMP OUT ALL WHO DENY THE INFLUENCE OF THE CHAOS PANTHEON OF GODS! KHORNE, THE BLOOD GOD! NURGLE, THE GREAT LORD OF DECAY! TZEENTCH, GOD OF CHANGE! SLAANESH, GOD OF EXCESS! YOUR SOULS ARE THEIRS TO CONSUME! YOUR DEATH FUELS THEIR POWER! WE ARE A LIMITLESS HORDE, POURING FORTH FROM THE MAW OF THE WARP! YOU WILL SUCCUMB...
 
@@ -123,7 +123,7 @@ Chaos: BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE! WE WILL STAMP OUT A
             Stats:  Armor -> Heresy Era Chaos Power Armor(Blessed by Nurgle): 32hp.
                     Ranged Weapon -> Chaos Bolter: 3-5 dmg/attack.
                     Melee Weapon -> Bayonet: 2-4 dmg/attack. 
-                    Special -> Plague cloud: The plague marine emits a noxious cloud of diseases. While in melee range, take 2 damage per                                  turn till entering ranged combat, or Plague Marine *dies* 
+                    Special -> Plague cloud: The plague marine emits a noxious cloud of diseases. While in melee range, take 2 damage per turn till entering ranged combat, or Plague Marine *dies* 
         
         [Tzeentch] Thousand Sons Rubric Marine Psyker: Psychic focused shock trooper.
             Stats:  Armor -> Rubric Living Power Armor: 30hp.
@@ -149,7 +149,7 @@ Chaos: BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE! WE WILL STAMP OUT A
         [Tzeentch] Pink Horror: Constantly changing mass of arms and teeth, happy to remove yours. Nesting doll of daemons...
             Stats:  Armor -> None 8hp.
                     Melee Weapon -> 3-Armed Swipe: 1-3 dmg/attack.
-                    Psyker abilities -> Pink Fire of Tzeentch: Pink flames erupt from the horror's mouth. 3-5 dmg/attack. 1 fire dmg/turn                                           for 2 turns. 3 turn cooldown.
+                    Psyker abilities -> Pink Fire of Tzeentch: Pink flames erupt from the horror's mouth. 3-5 dmg/attack. 1 fire dmg/turn for 2 turns. 3 turn cooldown.
                         Blue Horror: Upon death, the Pink Horror splits into a smaller, 2-armed blue version of itself.
                         Armor -> None 5hp.
                         Melee Weapon -> Claw Swipe: 1-3 dmg/attack.
@@ -164,7 +164,12 @@ Chaos: BLOOD FOR THE BLOOD GOD! SKULLS FOR THE SKULL THRONE! WE WILL STAMP OUT A
 
 Tyranids: TODO ->
 
-# BOSS FIGHTS!1!111!: TODO ->
+# BOSS FIGHTS!1!111!
+    There will be 3 boss fights initially, one from each faction. 
+
+    Orks: The current biggest, baddest, meanest Ork Warboss around is Ghazghkull Mag Uruk Thraka of the Goffs clan.   
+
+
 
 
 # Main Quest: TODO -> 
